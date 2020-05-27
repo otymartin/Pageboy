@@ -18,7 +18,7 @@
 **TL;DR** *UIPageViewController done properly.*
 
 ## ⭐️ Features
-- [x] Simplified data source management & enhanced delgation.
+- [x] Simplified data source management & enhanced delegation.
 - [x] Dynamically insert & remove pages.
 - [x] Infinite scrolling support.
 - [x] Automatic timer-based page transitioning.
